@@ -25,7 +25,6 @@ I'm a Third Year Information Technology student passionate about programming, we
 - Java
 - C#
 - JavaScript
-- R
 
 **Web Development**
 - HTML5
